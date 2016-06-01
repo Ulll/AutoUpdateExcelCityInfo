@@ -4,6 +4,7 @@ header('Content-Type: text/html; charset=UTF-8');
 ini_set('memory_limit', '1024M');
 set_time_limit(0);
 
+/*需要补全城市信息的列号*/
 define('ModifyColNum', 'B');
 
 //首先导入PHPExcel
