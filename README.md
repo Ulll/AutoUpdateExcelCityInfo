@@ -6,4 +6,4 @@ Usage:
 1. 将需要处理的xlsx文件存放在项目根目录
 2. 修改index.php顶部的配置信息
 3. 执行index.php脚本，下载处理完毕后的xlsx文件
-4. add new feature
+4. fix bug
